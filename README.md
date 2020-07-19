@@ -39,7 +39,7 @@ Brennan Klein and Erik Hoel, 2020. Complexity.\
 
 ## Installation and Usage
 
-In order to use this code, first clone/download the repository. 
+In order to use this code, first clone/download the repository and install it.
 Below is a simple example usage. Please feel free to reach 
 out if you find any bugs, have any questions, or if for some reason
 the code does not run. 
@@ -48,7 +48,7 @@ the code does not run.
 git clone https://github.com/MiqG/einet.git
 cd einet
 
-pip install -e code/einet
+pip install -e code/
 ```
 
 ```Python
