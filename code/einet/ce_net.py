@@ -15,10 +15,10 @@ email: rossgriebenow at gmail dot com
 """
 
 import numpy as np
-from ei_net import check_network
-from ei_net import stationary_distribution
-from ei_net import effective_information
-from ei_net import W_out
+from .ei_net import check_network
+from .ei_net import stationary_distribution
+from .ei_net import effective_information
+from .ei_net import W_out
 import scipy as sp
 import warnings
 from sklearn.cluster import OPTICS, cluster_optics_dbscan

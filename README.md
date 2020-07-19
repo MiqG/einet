@@ -44,6 +44,13 @@ Below is a simple example usage. Please feel free to reach
 out if you find any bugs, have any questions, or if for some reason
 the code does not run. 
 
+```shell
+git clone https://github.com/MiqG/einet.git
+cd einet
+
+pip install -e code/einet
+```
+
 ```Python
 >>> from ei_net import *
 >>> import networkx as nx
